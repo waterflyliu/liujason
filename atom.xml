@@ -6,7 +6,7 @@
   <link href="https://waterflyliu.github.io/liujason/atom.xml" rel="self"/>
   
   <link href="https://waterflyliu.github.io/liujason/"/>
-  <updated>2021-09-20T06:44:39.788Z</updated>
+  <updated>2021-09-20T10:16:09.506Z</updated>
   <id>https://waterflyliu.github.io/liujason/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>中秋节快乐</title>
-    <link href="https://waterflyliu.github.io/liujason/2021/09/20/first/"/>
-    <id>https://waterflyliu.github.io/liujason/2021/09/20/first/</id>
+    <link href="https://waterflyliu.github.io/liujason/2021/09/20/%E4%B8%AD%E7%A7%8B%E8%8A%82/"/>
+    <id>https://waterflyliu.github.io/liujason/2021/09/20/%E4%B8%AD%E7%A7%8B%E8%8A%82/</id>
     <published>2021-09-20T06:40:45.000Z</published>
-    <updated>2021-09-20T06:44:39.788Z</updated>
+    <updated>2021-09-20T10:16:09.506Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2Fedpic%2F3d%2Fa5%2F42%2F3da542de95a5ab09941a42ff4256951d.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634699641&t=2ccdf53a8fa25b9860e24e26794c7dad" alt="img"></p>]]></content>
     
@@ -33,6 +33,39 @@
     
     
     
+    
+    <category term="传统节日" scheme="https://waterflyliu.github.io/liujason/tags/%E4%BC%A0%E7%BB%9F%E8%8A%82%E6%97%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://waterflyliu.github.io/liujason/2021/08/20/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://waterflyliu.github.io/liujason/2021/08/20/%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-08-20T06:40:45.000Z</published>
+    <updated>2021-09-20T10:15:27.930Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>飞行</strong>……..飞行….掉下来了………………………………..</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;飞行&lt;/strong&gt;……..飞行….掉下来了………………………………..&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="https://waterflyliu.github.io/liujason/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
