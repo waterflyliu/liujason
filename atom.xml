@@ -6,7 +6,7 @@
   <link href="https://waterflyliu.github.io/liujason/atom.xml" rel="self"/>
   
   <link href="https://waterflyliu.github.io/liujason/"/>
-  <updated>2021-10-17T02:15:23.091Z</updated>
+  <updated>2021-10-17T02:22:42.916Z</updated>
   <id>https://waterflyliu.github.io/liujason/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo git blog 部署</title>
+    <link href="https://waterflyliu.github.io/liujason/2023/10/17/hexo/"/>
+    <id>https://waterflyliu.github.io/liujason/2023/10/17/hexo/</id>
+    <published>2023-10-17T06:40:45.000Z</published>
+    <updated>2021-10-17T02:22:42.916Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo s                    hexo g             hexo d</p><span id="more"></span><p><a href="https://blog.csdn.net/weixin_41599858/article/details/104786622?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242">【Hexo搭建个人博客】：yilia主题配置(一) - 基础配置_Alfred的博客-CSDN博客</a></p><p><a href="https://blog.csdn.net/weixin_41599858/article/details/104786874?utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-1.no_search_link">【Hexo搭建个人博客】：yilia主题配置(二) - 背景图片_Alfred的博客-CSDN博客_yilia主题配置</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;hexo s                    hexo g             hexo d&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="软件" scheme="https://waterflyliu.github.io/liujason/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>银行</title>
